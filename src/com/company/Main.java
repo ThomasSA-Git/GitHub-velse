@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Fejltest");
         System.out.println("Check");
+        System.out.println("fejl");
     }
 }
